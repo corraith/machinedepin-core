@@ -1,1 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "MachineDePIN",
+  "url": "https://machinedepin.com",
+  "description": "MachineDePIN.com is a strategic domain asset aligned with decentralized physical infrastructure (DePIN), autonomous systems, and ESG-conscious automation.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "MachineDePIN",
+    "url": "https://machinedepin.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://machinedepin.com/assets/logo-transparent.svg",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://machinedepin.com/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
 
